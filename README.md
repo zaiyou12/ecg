@@ -90,7 +90,7 @@ If you find this codebase useful for your research please cite:
 
 ```bash
 source activate tensorflow_p36
-conda install tqdm tensorflow-gpu=1.13.1
+conda install tqdm
 git clone https://github.com/zaiyou12/ecg.git
 cd ecg/example/cinc17
 sh setup.sh
